@@ -1,5 +1,5 @@
 # Can Day Trading Really Be Profitable? 
--Analysis and Optimization
+# -Analysis and Optimization
 Based on the paper by Carlo Zarattini and Andrew Aziz.
 The project is structured into three main phases:
 
